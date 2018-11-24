@@ -1,0 +1,182 @@
+atop
+ok
+sudo install htpd
+sudo yum -y install httpd
+ls --all
+ls -all
+cd /etc/httpd/
+ls -all
+sudo yum install nano
+cd /var/www/html
+sudo yum install nano
+cd /var/https://elearning.unitbv.ro/course/index.php?categoryid=141
+nano https://elearning.unitbv.ro/course/index.php?categoryid=141
+sudo nano test.html
+http://F/test.html
+sudo service httpd start
+sudo netstat -yulnp
+sudo netstat -tulnp
+sudo shutdown -h now
+mvn -version
+sudo yum install -y java-1.8.0-openjdk-devel
+java -version
+cd /usr/local/src/
+sudo wget
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo wget
+sudo yum wget install
+sudo yum install wget
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+cd /etc/profile.d/
+sudo nano maven.sh
+clear
+sudo cat /home/korch_alin/.jenkins/secrets/initialAdminPassword
+c65d9f8f6fd945989f92ca0cc86a9cb4
+cd /usr/local/src/
+http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz
+pwd
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz 
+sudo mv apache-maven-3.6.0/ apache-maven/
+sudo mv apache-maven-3.6.0/ ls
+ls
+mkdir maven
+ls
+cd /usr/local/src/
+sudo wget http://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+sudo tar -xf apache-maven-3.6.0-bin.tar.gz 
+sudo mv apache-maven-3.6.0/ apache-maven/
+ls
+cd /etc/profile.d/
+sudo nano maven.sh
+sudo chmod +x maven.sh 
+source /etc/profile.d/maven.sh 
+mvn -version
+cd /home/korch_alin/
+ls
+mvn -version
+groupID=devops.course
+artifactID=devops-course
+maven arketype:generate
+mvn archetype:generate
+mkdir manenp
+cd mavenp
+mkdir mavenp
+cd mavenp
+mvn archtype:generate
+etc/profile.d/
+cd maVENP
+cd mavenp
+ls
+cd..
+cd mavenp
+mkdir mavenp
+cd mavenp
+mvn archetype:generate
+ls
+pwd
+sudo git clone https://github.com/elenabizoistudent/maven.git 
+ls
+cd maven
+ls
+pwd
+cd..
+cd ..
+ls
+cd mavenp
+ls
+cd dev
+cd ..
+cd home
+ls
+cd mavenp
+nano /etc/profile.d/maven.sh 
+ls
+cd korch_alin
+ls
+mkdir docker
+sudo yum install -y yum-utils   device-mapper-persistent-data   lvm2
+sudo yum-config-manager     --add-repo
+sudo yum-config-manager --add-repo
+sudo yum-config-manager     --add-repo  https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum install docker-ce
+sudo systemctl start docker
+sudo docker run hello-world
+sudo docker images
+sudo docker ps
+sudo docker -a ps
+sudo docker run debian ls
+sudo docker run -it debian bin/bash
+sudo docker ps -a
+sudo docker start -a -i 33bed4ce36f5 
+sudo docker run -it --name n1 -p 8080 nginx
+sudo docker run -it --name n1 -p 80:80 nginx 
+history
+history -w history.txt
+ls
+sudo docker run hello-world
+sudo docker prune -a
+sudo docker run hello-world
+sudo docker ps
+sudo docker system prune -a
+nano Dockerfile
+http://35.231.76.33:8080/job/docker%201/1/curs.devops$aplicatie-devops/artifact/curs.devops/aplicatie-devops/1.0-SNAPSHOT/aplicatie-devops-1.0-SNAPSHOT.war
+ls
+cd ..
+ls
+mk docker
+mkdir docker
+cd
+cd ls
+ls
+cd docker
+ls
+nano Dockerfile 
+sudo docker build -t hefesita/aplicatie:1
+sudo docker build -t hefesita/aplicatie:1 .
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+nano Dockerfile
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1 .
+nano Dockerfile
+ls
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1 .
+sudo docker build -t hefesita/aplicatie:1 .
+sudo docker run -d --name t1 -p 80:8080 hefesita/aplicatie:1
+cd ..
+ls
+cd ..
+ls
+mkdir Tema
+ls
+cd korch_alin
+ls
+mkdir Tema
+cd Tema
+echo "# Tema" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Tema.git
+git push -u origin mastergit in
+git init
+nano test.txt
+git add test.txt
+git commit -m'test.txt'
+git commit -m 'test.txt'
+git config --global username korchalin
+git config --global korchalin
+git config --global user.email "korch.alin@gmail.com"
+git config --global user.name "Your Name"
+git config --global user.name "korchalin"
+git commit -m 'test.txt'
+git commit -m "first commit"
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/korchalin/Tema.git
+git push -u origin master
+git add test.txt
+git commit -m 'test.txt'
+git push origin master
+history -w tema.txt
